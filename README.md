@@ -1,5 +1,8 @@
 # Resilient API Platforms on Azure API Management
-Guidance on how to build resilient API platforms with Azure API Management
+
+Guidance on how to build resilient API platforms with Azure API Management.
+
+
 
 ## License Information
 
